@@ -3,7 +3,7 @@
 
 # Shades of Purple Theme for Alacritty
 
-[![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)][course]
+[![VSCode.pro | Become a VSCode Power User](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)][course]
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-![Install](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-alacritty/master/images/4_install.png)
+![Install](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4_install.png)
 
 ## Install
 
@@ -82,7 +82,7 @@ After 10 years with Sublime Text, I switched to VSCode — the new open source c
 
 <br>
 
-![License & Attribution thanks](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-alacritty/master/images/12_license.png)
+![License & Attribution thanks](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/12_license.png)
 
 ## License & Attribution
 
@@ -99,13 +99,13 @@ _👋 Follow Ahmad on Twitter_ [![Ahmad on Twitter](https://img.shields.io/twitt
 > After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro/?utm_source=sop#module1">switch today</a> and bring all your <a href="https://VSCode.pro/?utm_source=sop#module2">custom settings</a> and the <a href="https://VSCode.pro/?utm_source=sop#module3">power user workflows</a> for <a href="https://VSCode.pro/?utm_source=sop#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro/?utm_source=sop#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro/?utm_source=sop#module6">Markdown</a>, and everything from <a href="https://VSCode.pro/?utm_source=sop#module7">JavaScript</a> to <a href="https://VSCode.pro/?utm_source=sop#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro/?utm_source=sop#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/?utm_source=sop" target="_blank">Learn Visual Studio Code →</a>
 
 <br>
-<img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-alacritty/master/images/hr.png" />
+<img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png" />
 <br>
 <br>
 
 <div align="center">
   <a href="https://VSCode.pro/?utm_source=sop" target="_blank">
-  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-alacritty/master/images/vscodeproPlay.jpg" /><br>VSCode</a>
+  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/vscodeproPlay.jpg" /><br>VSCode</a>
 
   _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Power User Course →</a></small>_
 </div>
