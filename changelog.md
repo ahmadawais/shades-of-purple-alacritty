@@ -32,7 +32,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
-### RELEASE: 0.0.1
+### RELEASE: 1.0.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -49,6 +49,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+>  📖 Changelog [`45d98ae`](https://github.com/ahmadawais/shades-of-purple-alacritty/commit/45d98ae9a2ee8d2b93c1807cc5f436ac53fbea71) <br>
 > 📖 Gif [`89ad111`](https://github.com/ahmadawais/shades-of-purple-alacritty/commit/89ad111214f4bc225730af5ea889e2c50526bc08) <br>
 
 <br>
